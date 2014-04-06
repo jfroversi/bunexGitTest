@@ -6,6 +6,8 @@
 //  Copyright (c) 2014 minibun. All rights reserved.
 //
 
+//edited in github ! 06/04/2013
+
 #import <Cocoa/Cocoa.h>
 #import <Quartz/Quartz.h>
 
